@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Segan';
+    src: url(../fonts/Segan-Light.ttf);
+}
+html, body{
+    height: 100%;
+    font-family: 'Segan';
+
+}
+
+.navbar{
+    padding: 1% 8% 0.5% 8%;
+    
+}

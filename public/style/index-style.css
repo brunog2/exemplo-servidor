@@ -1,0 +1,35 @@
+form{
+    height: 100%;
+}
+.container-fluid{
+    background-color: rgb(25, 219, 193);
+    text-align: center;
+    margin-top: 5%;
+    width:  75%;
+    height: 60%;    
+    border-radius: 10px;
+    
+}
+.display-4{
+    font-size: 250%;
+    font-family: Segan;
+    color: white;
+    text-shadow: black 0.001em 0.001em 0.025em;
+}
+#bt{
+    border-color: rgb(25, 219, 193);
+    color: black;
+}
+#bt:hover{
+    background-color: rgb(25, 219, 193);
+    color: white;
+    text-shadow: black 0.001em 0.001em 0.025em;
+}
+#botao{
+    color: white;
+    border-color: white;
+}
+#botao:hover{ 
+    background-color:  rgb(255, 255, 255);    
+    color: black;    
+}
